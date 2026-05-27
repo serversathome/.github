@@ -7,7 +7,7 @@ We make tutorials, guides, and tools for homelabbers who want to run their own s
 ## Projects
 
 - **[Profilarr](https://github.com/serversathome/profilarr)** — A merged database of quality profiles and custom formats for Radarr & Sonarr. 20 profiles, 410+ custom formats, 900+ regex patterns. Auto-updated daily.
-- **[Wiki](https://wiki.serversatho.me)** — Community-maintained guides and documentation. Contributions welcome via [GitHub](https://github.com/serversathome/wiki).
+- **[Wiki](https://wiki.serversatho.me)** — Community-maintained guides and documentation.
 
 ## Learn
 
