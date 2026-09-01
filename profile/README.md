@@ -4,11 +4,6 @@
 
 We make tutorials, guides, and tools for homelabbers who want to run their own services — from media servers to knowledge bases to everything in between.
 
-## Projects
-
-- **[Profilarr](https://github.com/serversathome/profilarr)** — A merged database of quality profiles and custom formats for Radarr & Sonarr. 20 profiles, 410+ custom formats, 900+ regex patterns. Auto-updated daily.
-- **[Wiki](https://wiki.serversatho.me)** — Community-maintained guides and documentation.
-
 ## Learn
 
 - [YouTube](https://youtube.com/@Serversathome)
