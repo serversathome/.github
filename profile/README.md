@@ -13,7 +13,6 @@ We make tutorials, guides, and tools for homelabbers who want to run their own s
 ## Community
 
 - [Discord](https://discord.gg/syvCPcRJnR)
-- [Matrix](https://chat.serversatho.me/)
 
 ## Support
 
